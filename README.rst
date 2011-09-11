@@ -15,7 +15,7 @@ In your Python code simply write this::
 Requirements
 ============
 
-This package works only in Unix Systems with Apache2 server installed.
+This package works only in *Unix* Systems with *Apache2* server and *gcc* installed.
 
 
 Installation
