@@ -1,0 +1,2 @@
+include README.rst
+include apache2/a2reload.c
